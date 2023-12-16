@@ -1,0 +1,57 @@
+﻿Weather_id,Temperature Range,Weather
+W1,257-290,few clouds
+W2,257-290,scattered clouds
+W3,257-290,broken clouds
+W4,257-290,overcast clouds
+W5,257-290,sky is clear
+W6,257-290,haze
+W7,291-311,scattered clouds
+W8,291-311,broken clouds
+W9,291-311,few clouds
+W10,257-290,mist
+W11,257-290,light rain
+W12,257-290,moderate rain
+W13,257-290,light intensity drizzle
+W14,257-290,fog
+W15,257-290,heavy intensity rain
+W16,257-290,light snow
+W17,257-290,snow
+W18,257-290,shower rain
+W19,291-311,overcast clouds
+W20,291-311,light rain
+W21,291-311,thunderstorm with rain
+W22,291-311,moderate rain
+W23,291-311,thunderstorm
+W24,291-311,heavy intensity rain
+W25,291-311,smoke
+W26,291-311,sky is clear
+W27,291-311,mist
+W28,291-311,haze
+W29,291-311,fog
+W30,291-311,light intensity drizzle
+W31,291-311,shower rain
+W32,291-311,thunderstorm with light rain
+W33,291-311,proximity thunderstorm
+W34,291-311,drizzle
+W35,291-311,thunderstorm with heavy rain
+W36,291-311,very heavy rain
+W37,257-290,drizzle
+W38,257-290,light rain and snow
+W39,257-290,smoke
+W40,257-290,rain and snow
+W41,291-311,squalls
+W42,257-290,thunderstorm with heavy rain
+W43,257-290,heavy snow
+W44,257-290,thunderstorm
+W45,257-290,thunderstorm with rain
+W46,257-290,thunderstorm with light rain
+W47,257-290,very heavy rain
+W48,257-290,freezing rain
+W49,257-290,squalls
+W50,257-290,heavy intensity drizzle
+W51,291-311,proximity thunderstorm with rain
+W52,291-311,heavy intensity drizzle
+W53,257-290,thunderstorm with drizzle
+W54,291-311,thunderstorm with light drizzle
+W55,291-311,thunderstorm with drizzle
+W56,257-290,thunderstorm with light drizzle
